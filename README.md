@@ -24,5 +24,22 @@ PRIOR HISTORY
 CDM REGISTERED PROJECT Project 9958 : 3 MW Captive Wind Project by Bhagwati Spherocast Pvt. Ltd in Gujarat
 
 No CDM CER Issuance Till Date
+____________
+UCR MP-01 ISSUE DATE: 19/04/2024
+
+Total Quantity: 10707
+_____________________
+Serial ID: 0001-000001-005508-UCR-CoU-IN-366-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 5508
+______________________
+Serial ID: 0001-005509-010707-UCR-CoU-IN-366-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 5199
+_________________
 
 
